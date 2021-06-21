@@ -1,2 +1,2 @@
 # textutility
-A tool to modify text data in Django backend
+A tool to modify text data in Django backend.
